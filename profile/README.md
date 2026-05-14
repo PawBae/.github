@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/228800541" width="120" alt="PawBae Logo" />
+  <img src="https://raw.githubusercontent.com/PawBae/.github/main/profile/pawbae-logo.png" width="160" alt="PawBae Logo" />
 </p>
 
 <h1 align="center">PawBae</h1>
